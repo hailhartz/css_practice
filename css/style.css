@@ -1,0 +1,36 @@
+body{
+    font-family:Arial, Verdana;
+    background: #000000;
+    color: #FFF;
+    margin: 20px 20px 0px 20px;
+}
+
+h1 {
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+p {
+    font-size: 24px;
+    padding: 10px 0px 0px 10px;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: dashed #FFF 10px;
+}
+
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: solid #FFF 3px;
+}
