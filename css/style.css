@@ -34,3 +34,58 @@ div {
     padding: 20px;
     border: solid #FFF 3px;
 }
+
+.introduction {
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+.red {
+    background-color: #F00;
+    text-align: right;
+    margin-left: 50px;
+    border: solid 0px 0px 2px 5px;
+}
+
+div .blue {
+    background-color: #3944BC;
+    text-align: left;
+    margin-right: 50px;
+    border: solid 2px 5px 0px 0px;
+}
+
+h1, h2, p .blue {
+    color: #C4C4C4;
+}
+
+div.yellow {
+    background-color: #FFFF00;
+    text-align: right;
+    margin-left: 50px;
+    border: solid 0px 0px 2px 5px;
+}
+
+p.yellow {
+    color: #707070;
+}
+
+div.green {
+    background-color: #00EB00;
+    text-align: left;
+    margin-right: 50px;
+    border: solid 2px 5px 0px 0px;
+}
+
+footer {
+    background: #000000;
+    background: linear-gradient(90deg, #000000 0%, #00f 25%, #06f 70%, #000 100%);
+    border: solid #fff 5px;
+}
+
+footer p {
+    font-size: 20px;
+    text-align: right;
+    padding: 15px 15px 15px 0px;
+}
+
